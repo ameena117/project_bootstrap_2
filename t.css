@@ -1,0 +1,24 @@
+.carousel-inner{
+    height: 500px;
+    object-fit: cover;
+}
+.carousel-caption{
+    background-color: #00000094;
+}
+.img{
+    padding: 10px;
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.row{
+    margin-top: 20px;
+}
+#i{
+    height: 550px;
+    width: 450px;
+}
+#pic{
+    height: 450px;
+}
